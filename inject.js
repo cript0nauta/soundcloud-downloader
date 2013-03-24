@@ -6,6 +6,11 @@ f = function(){
 }
 x=1; f();
 
+
+
+
+
+
 // Ejecutar cuando se haya bajado hasta el final
 x = 0;
 links = $('.soundTitle__title');
